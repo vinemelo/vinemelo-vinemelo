@@ -22,12 +22,16 @@
   </tr>
 </table>
 
+---
+
 ### 💻🛠️
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+---
 
 ### 🤖🖌️
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
@@ -36,10 +40,14 @@
 ![SignalRGB](https://img.shields.io/badge/SignalRGB-ED1C24?style=for-the-badge&logo=signalrgb&logoColor=white)
 ![Reshade](https://img.shields.io/badge/Reshade-583B8B?style=for-the-badge&logo=reshade&logoColor=white)
 
+---
+
 ### 🖥️🖱️
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Pop!_OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=pop-os&logoColor=white)
+
+---
 
 ### 🕹️🧰
 ![Euro Truck Simulator 2](https://img.shields.io/badge/Euro%20Truck%20Simulator%202-FF5733?style=for-the-badge&logo=steam&logoColor=white)
