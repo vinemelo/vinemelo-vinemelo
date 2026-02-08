@@ -1,8 +1,26 @@
 # 𝖀𝖓𝖙𝖎𝖑 𝖙𝖍𝖊 𝖑𝖎𝖌𝖍𝖙 𝖙𝖆𝕶𝖊 𝖚𝖘... 🌒
 
-<p align="center">
-  <img src="preview.gif" alt="Redragon K557 Kala SignalRGB Animation" width="600">
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="preview.gif" width="300px" />
+    </td>
+    <td align="center">
+      <img src="preview2.gif" width="300px" />
+    </td>
+  </tr>
+</table>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="preview3.gif" width="300px" />
+    </td>
+    <td align="center">
+      <img src="preview4.gif" width="300px" />
+    </td>
+  </tr>
+</table>
 
 ### 💻🛠️
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
